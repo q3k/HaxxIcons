@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="184.03125"
+   height="184"
+   id="svg5351">
+  <defs
+     id="defs5353" />
+  <metadata
+     id="metadata5356">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-179.40179,-451.79018)"
+     id="layer1">
+    <g
+       transform="translate(159.34225,-109.6627)"
+       id="g4836"
+       style="display:inline">
+      <path
+         d="m 206.42857,122.71932 a 83.214287,83.214287 0 1 1 -166.42857,0 83.214287,83.214287 0 1 1 166.42857,0 z"
+         transform="translate(-11.127965,530.73413)"
+         id="path3769-9-5-11-3"
+         style="fill:none;stroke:#000000;stroke-width:17.60000038;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         d="m 148.56511,609.64942 c -15.963,-1.83012 -30.36694,9.44289 -32.16841,25.15593 -1.80146,15.71303 9.68097,29.92241 25.64398,31.75254 12.69087,1.45497 24.38904,-5.36546 29.55892,-16.11306 l -9.57798,0.41174 -0.0203,-0.0967 -17.87079,1.41118 -10.69924,-14.50054 7.74106,-15.94077 14.88477,-1.15587 3.55554,-0.28437 0.10996,0.13842 8.09386,-0.3617 c -4.63535,-5.60716 -11.39644,-9.51626 -19.25129,-10.4168 z"
+         id="path4183"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         d="m 320.21836,800.3291 a 35.860416,35.860416 0 1 1 -71.72084,0 35.860416,35.860416 0 1 1 71.72084,0 z"
+         transform="matrix(0.35505218,-0.17816925,0.17537921,0.34949223,-176.40614,450.57269)"
+         id="path4185"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:14.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="77.781746"
+         height="33.692177"
+         x="-248.18633"
+         y="619.73181"
+         transform="matrix(0.89377863,-0.44850837,0.44850837,0.89377863,0,0)"
+         id="rect4469"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="184.03125"
+   height="184"
+   id="svg5066">
+  <defs
+     id="defs5068" />
+  <metadata
+     id="metadata5071">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-484.26269,-26.980612)"
+     id="g5099"
+     style="display:inline">
+    <path
+       d="m 206.42857,122.71932 a 83.214287,83.214287 0 1 1 -166.42857,0 83.214287,83.214287 0 1 1 166.42857,0 z"
+       transform="translate(453.07519,-3.7381376)"
+       id="path3769-9-5"
+       style="fill:none;stroke:#000000;stroke-width:17.60000038;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       transform="translate(33.030458,-33.478658)"
+       id="flowRoot3921"
+       style="font-size:160px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold">
+      <path
+         d="m 571.89062,97.504256 -4.60937,21.640624 c -4.42716,-4.42699 -10.88549,-6.64053 -19.375,-6.64062 -8.48963,9e-5 -15.36463,3.04696 -20.625,9.14062 -2.96879,3.43759 -5.07816,7.73446 -6.32813,12.89063 l 42.96875,0 -2.5,12.10937 -42.03125,0 c -0.0521,1.19798 -0.0782,2.73444 -0.0781,4.60938 -3e-5,1.82297 0.0521,3.72401 0.15625,5.70312 l 39.76562,0 -2.5,12.10938 -35.625,0 c 1.30205,5.57295 3.30726,9.94794 6.01563,13.125 5.20829,6.14585 11.97912,9.21876 20.3125,9.21875 9.99993,1e-5 17.96867,-3.0729 23.90625,-9.21875 l 0,23.90625 c -6.77091,3.38541 -14.66153,5.07812 -23.67188,5.07812 -15.20837,0 -27.70836,-5.20833 -37.5,-15.625 -6.66668,-7.08331 -11.06771,-15.91143 -13.20312,-26.48437 l -11.5625,0 2.5,-12.10938 7.65625,0 c -0.0521,-1.24995 -0.0781,-2.57807 -0.0781,-3.98437 0,-2.39578 0.0521,-4.50515 0.15625,-6.32813 l -10.23437,0 2.5,-12.10937 9.29687,0 c 2.18749,-10.3645 6.53645,-19.03637 13.04688,-26.01563 9.84372,-10.520721 22.78641,-15.781132 38.82812,-15.781249 8.74994,1.17e-4 16.35409,1.588657 22.8125,4.765625 z"
+         id="path5097" />
+    </g>
+  </g>
+</svg>
